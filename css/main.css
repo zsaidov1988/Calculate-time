@@ -1,0 +1,35 @@
+
+
+.wrapper {
+  margin-top: 50px;
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+}
+
+
+.form-js {
+  margin-bottom: 50px;
+}
+
+.message-js {
+  display: none;
+}
+
+output {
+  display: block;
+  margin-bottom: 15px;
+  background-color: #c2c2c2;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding-top: 50px;
+  height: 150px;
+  background-color: beige;
+}
